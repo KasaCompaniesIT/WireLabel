@@ -1,0 +1,885 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Kasa Wire Labels|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\New Wire Labels\Setup
+
+[Package|Kasa Wire Labels|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Kasa Wire Labels|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Kasa Wire Labels|Files Found]
+
+[Package|Kasa Wire Labels|Files Released]
+
+[Package|Kasa Wire Labels|Missing Dependency Information]
+
+[Package|Kasa Wire Labels|Out-of-Date Dependency Information]
+
+[Package|Kasa Wire Labels|Files Added]
+
+[Package|Kasa Wire Labels|Files Removed]
+
+[Package|Kasa Wire Labels|Files In Project]
+C:\New Wire Labels\KASA Wire Labels.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Kasa Wire Labels|Configure Registry Files]
+Applicable=No
+
+[Package|Kasa Wire Labels|Configure Remote Servers]
+Applicable=No
+
+[Package|Kasa Wire Labels|Install Locations]
+C:\New Wire Labels\KASA Wire Labels.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Kasa Wire Labels|Configure Shared Files]
+Applicable=Yes
+C:\New Wire Labels\KASA Wire Labels.exe=No
+
+[Package|Kasa Wire Labels|Distribution]
+Type=single
+Size=
+Title=Kasa Wire Labels
+
+[Package|Kasa Wire Labels|IconGroups]
+Group0=Kasa Wire Labels
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Kasa Wire Labels|Kasa Wire Labels]
+Icon1="KASA Wire Labels.exe"
+Title1=Kasa Wire Labels
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Kasa Wire Labels|Package]
+PackageFolder=C:\New Wire Labels\Setup
+ProjectFolder=C:\New Wire Labels
+ServerSideCab=
+File1=C:\New Wire Labels\Setup\setup.exe
+File2=C:\New Wire Labels\Setup\Setup.Lst
+File3=C:\New Wire Labels\Setup\KASA Wire Labels.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Kasa Floppies|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\New Wire Labels\Floppies
+
+[Package|Kasa Floppies|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Kasa Floppies|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Kasa Floppies|Files Found]
+
+[Package|Kasa Floppies|Files Released]
+
+[Package|Kasa Floppies|Missing Dependency Information]
+
+[Package|Kasa Floppies|Out-of-Date Dependency Information]
+
+[Package|Kasa Floppies|Files Added]
+c:\new wire labels\print.avi=
+c:\new wire labels\label.avi=
+c:\new wire labels\kasa.avi=
+C:\New Wire Labels\Help\default.htm=
+
+[Package|Kasa Floppies|Files Removed]
+
+[Package|Kasa Floppies|Files In Project]
+C:\New Wire Labels\KASA Wire Labels.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\New Wire Labels\print.avi=Yes
+C:\New Wire Labels\label.avi=Yes
+C:\New Wire Labels\KASA.avi=Yes
+C:\New Wire Labels\Help\default.htm=Yes
+
+[Package|Kasa Floppies|Configure Registry Files]
+Applicable=No
+
+[Package|Kasa Floppies|Configure Remote Servers]
+Applicable=No
+
+[Package|Kasa Floppies|Install Locations]
+C:\New Wire Labels\KASA Wire Labels.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\New Wire Labels\print.avi=$(AppPath)
+C:\New Wire Labels\label.avi=$(AppPath)
+C:\New Wire Labels\KASA.avi=$(AppPath)
+C:\New Wire Labels\Help\default.htm=$(AppPath)\Help
+
+[Package|Kasa Floppies|Configure Shared Files]
+Applicable=Yes
+C:\New Wire Labels\KASA Wire Labels.exe=No
+C:\New Wire Labels\print.avi=No
+C:\New Wire Labels\label.avi=No
+C:\New Wire Labels\KASA.avi=No
+C:\New Wire Labels\Help\default.htm=No
+
+[Package|Kasa Floppies|Distribution]
+Type=multi
+Size=1.44 MB
+Title=Kasa Wire Labels
+
+[Package|Kasa Floppies|Package]
+PackageFolder=C:\New Wire Labels\Floppies
+ProjectFolder=C:\New Wire Labels
+ServerSideCab=
+File1=C:\New Wire Labels\Floppies\setup.exe
+File2=C:\New Wire Labels\Floppies\Setup.Lst
+File3=C:\New Wire Labels\Floppies\KASA W1.CAB
+File4=C:\New Wire Labels\Floppies\KASA W2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|Kasa Floppies|IconGroups]
+Group0=Kasa Wire Labels
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Kasa Floppies|Kasa Wire Labels]
+Icon1="KASA Wire Labels.exe"
+Title1=Kasa Wire Labels
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Kasa Wire Labels Full Install|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=i:\Kasa Wire Labels
+
+[Package|Kasa Wire Labels Full Install|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Kasa Wire Labels Full Install|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Kasa Wire Labels Full Install|Files Found]
+
+[Package|Kasa Wire Labels Full Install|Files Released]
+
+[Package|Kasa Wire Labels Full Install|Missing Dependency Information]
+
+[Package|Kasa Wire Labels Full Install|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Kasa Wire Labels Full Install|Files Added]
+m:\new wire labels\print.avi=
+m:\new wire labels\help\alpha.htm=
+m:\new wire labels\help\banner.htm=
+m:\new wire labels\help\contents.htm=
+m:\new wire labels\help\decimal.htm=
+m:\new wire labels\help\default.htm=
+m:\new wire labels\help\edit_menu.htm=
+m:\new wire labels\help\file_menu.htm=
+m:\new wire labels\help\font_dialog.htm=
+m:\new wire labels\help\help_menu.htm=
+m:\new wire labels\help\insert_char.htm=
+m:\new wire labels\help\label_format.htm=
+m:\new wire labels\help\main.htm=
+m:\new wire labels\help\plc.htm=
+m:\new wire labels\help\popup_menu.htm=
+m:\new wire labels\help\printer_setup.htm=
+m:\new wire labels\help\sequence_menu.htm=
+m:\new wire labels\help\slc.htm=
+m:\new wire labels\help\toolbar.htm=
+m:\new wire labels\help\view_menu.htm=
+m:\new wire labels\help\graphics\alpha.jpg=
+m:\new wire labels\help\graphics\alpha_seq.jpg=
+m:\new wire labels\help\graphics\chg_qty.jpg=
+m:\new wire labels\help\graphics\comp010.jpg=
+m:\new wire labels\help\graphics\copy.jpg=
+m:\new wire labels\help\graphics\cut.jpg=
+m:\new wire labels\help\graphics\dec_seq.jpg=
+m:\new wire labels\help\graphics\decimal.jpg=
+m:\new wire labels\help\graphics\del_char.jpg=
+m:\new wire labels\help\graphics\delete.jpg=
+m:\new wire labels\help\graphics\editmenu.jpg=
+m:\new wire labels\help\graphics\find.jpg=
+m:\new wire labels\help\graphics\font.jpg=
+m:\new wire labels\help\graphics\font_dialog.jpg=
+m:\new wire labels\help\graphics\format.jpg=
+m:\new wire labels\help\graphics\help.jpg=
+m:\new wire labels\help\graphics\import.jpg=
+m:\new wire labels\help\graphics\ins_char.jpg=
+m:\new wire labels\help\graphics\insert.jpg=
+m:\new wire labels\help\graphics\kasa-ani.gif=
+m:\new wire labels\help\graphics\labelformat.jpg=
+m:\new wire labels\help\graphics\new.jpg=
+m:\new wire labels\help\graphics\open.jpg=
+m:\new wire labels\help\graphics\paste.jpg=
+m:\new wire labels\help\graphics\plc.jpg=
+m:\new wire labels\help\graphics\plc_seq.jpg=
+m:\new wire labels\help\graphics\print.jpg=
+m:\new wire labels\help\graphics\printsetup.jpg=
+m:\new wire labels\help\graphics\save.jpg=
+m:\new wire labels\help\graphics\slc.jpg=
+m:\new wire labels\help\graphics\slc_seq.jpg=
+m:\new wire labels\help\graphics\sortasc.jpg=
+m:\new wire labels\help\graphics\toolbar.jpg=
+m:\new wire labels\formats.dat=
+
+[Package|Kasa Wire Labels Full Install|Files Removed]
+
+[Package|Kasa Wire Labels Full Install|Files In Project]
+M:\New Wire Labels\KASA Wire Labels.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+M:\New Wire Labels\print.avi=Yes
+M:\New Wire Labels\Help\alpha.htm=Yes
+M:\New Wire Labels\Help\banner.htm=Yes
+M:\New Wire Labels\Help\contents.htm=Yes
+M:\New Wire Labels\Help\decimal.htm=Yes
+M:\New Wire Labels\Help\default.htm=Yes
+M:\New Wire Labels\Help\edit_menu.htm=Yes
+M:\New Wire Labels\Help\file_menu.htm=Yes
+M:\New Wire Labels\Help\font_dialog.htm=Yes
+M:\New Wire Labels\Help\help_menu.htm=Yes
+M:\New Wire Labels\Help\insert_char.htm=Yes
+M:\New Wire Labels\Help\label_format.htm=Yes
+M:\New Wire Labels\Help\main.htm=Yes
+M:\New Wire Labels\Help\PLC.htm=Yes
+M:\New Wire Labels\Help\popup_menu.htm=Yes
+M:\New Wire Labels\Help\printer_setup.htm=Yes
+M:\New Wire Labels\Help\sequence_menu.htm=Yes
+M:\New Wire Labels\Help\SLC.htm=Yes
+M:\New Wire Labels\Help\toolbar.htm=Yes
+M:\New Wire Labels\Help\view_menu.htm=Yes
+M:\New Wire Labels\Help\Graphics\ALPHA.jpg=Yes
+M:\New Wire Labels\Help\Graphics\alpha_seq.jpg=Yes
+M:\New Wire Labels\Help\Graphics\CHG_QTY.jpg=Yes
+M:\New Wire Labels\Help\Graphics\comp010.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Copy.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Cut.jpg=Yes
+M:\New Wire Labels\Help\Graphics\dec_seq.jpg=Yes
+M:\New Wire Labels\Help\Graphics\DECIMAL.jpg=Yes
+M:\New Wire Labels\Help\Graphics\DEL_CHAR.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Delete.jpg=Yes
+M:\New Wire Labels\Help\Graphics\EditMenu.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Find.jpg=Yes
+M:\New Wire Labels\Help\Graphics\FONT.jpg=Yes
+M:\New Wire Labels\Help\Graphics\font_dialog.jpg=Yes
+M:\New Wire Labels\Help\Graphics\FORMAT.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Help.jpg=Yes
+M:\New Wire Labels\Help\Graphics\IMPORT.jpg=Yes
+M:\New Wire Labels\Help\Graphics\INS_CHAR.jpg=Yes
+M:\New Wire Labels\Help\Graphics\insert.jpg=Yes
+M:\New Wire Labels\Help\Graphics\kasa-ani.gif=Yes
+M:\New Wire Labels\Help\Graphics\LabelFormat.jpg=Yes
+M:\New Wire Labels\Help\Graphics\New.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Open.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Paste.jpg=Yes
+M:\New Wire Labels\Help\Graphics\PLC.jpg=Yes
+M:\New Wire Labels\Help\Graphics\PLC_Seq.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Print.jpg=Yes
+M:\New Wire Labels\Help\Graphics\printsetup.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Save.jpg=Yes
+M:\New Wire Labels\Help\Graphics\slc.jpg=Yes
+M:\New Wire Labels\Help\Graphics\slc_seq.jpg=Yes
+M:\New Wire Labels\Help\Graphics\Sortasc.jpg=Yes
+M:\New Wire Labels\Help\Graphics\toolbar.jpg=Yes
+M:\New Wire Labels\formats.dat=Yes
+
+[Package|Kasa Wire Labels Full Install|Configure Registry Files]
+Applicable=No
+
+[Package|Kasa Wire Labels Full Install|Configure Remote Servers]
+Applicable=No
+
+[Package|Kasa Wire Labels Full Install|Install Locations]
+M:\New Wire Labels\KASA Wire Labels.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+M:\New Wire Labels\print.avi=$(AppPath)
+M:\New Wire Labels\Help\alpha.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\banner.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\contents.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\decimal.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\default.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\edit_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\file_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\font_dialog.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\help_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\insert_char.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\label_format.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\main.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\PLC.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\popup_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\printer_setup.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\sequence_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\SLC.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\toolbar.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\view_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\Graphics\ALPHA.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\alpha_seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\CHG_QTY.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\comp010.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Copy.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Cut.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\dec_seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\DECIMAL.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\DEL_CHAR.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Delete.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\EditMenu.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Find.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\FONT.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\font_dialog.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\FORMAT.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Help.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\IMPORT.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\INS_CHAR.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\insert.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\kasa-ani.gif=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\LabelFormat.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\New.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Open.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Paste.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\PLC.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\PLC_Seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Print.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\printsetup.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Save.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\slc.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\slc_seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Sortasc.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\toolbar.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\formats.dat=$(AppPath)
+
+[Package|Kasa Wire Labels Full Install|Configure Shared Files]
+Applicable=Yes
+M:\New Wire Labels\KASA Wire Labels.exe=No
+M:\New Wire Labels\print.avi=No
+M:\New Wire Labels\Help\alpha.htm=No
+M:\New Wire Labels\Help\banner.htm=No
+M:\New Wire Labels\Help\contents.htm=No
+M:\New Wire Labels\Help\decimal.htm=No
+M:\New Wire Labels\Help\default.htm=No
+M:\New Wire Labels\Help\edit_menu.htm=No
+M:\New Wire Labels\Help\file_menu.htm=No
+M:\New Wire Labels\Help\font_dialog.htm=No
+M:\New Wire Labels\Help\help_menu.htm=No
+M:\New Wire Labels\Help\insert_char.htm=No
+M:\New Wire Labels\Help\label_format.htm=No
+M:\New Wire Labels\Help\main.htm=No
+M:\New Wire Labels\Help\PLC.htm=No
+M:\New Wire Labels\Help\popup_menu.htm=No
+M:\New Wire Labels\Help\printer_setup.htm=No
+M:\New Wire Labels\Help\sequence_menu.htm=No
+M:\New Wire Labels\Help\SLC.htm=No
+M:\New Wire Labels\Help\toolbar.htm=No
+M:\New Wire Labels\Help\view_menu.htm=No
+M:\New Wire Labels\Help\Graphics\ALPHA.jpg=No
+M:\New Wire Labels\Help\Graphics\alpha_seq.jpg=No
+M:\New Wire Labels\Help\Graphics\CHG_QTY.jpg=No
+M:\New Wire Labels\Help\Graphics\comp010.jpg=No
+M:\New Wire Labels\Help\Graphics\Copy.jpg=No
+M:\New Wire Labels\Help\Graphics\Cut.jpg=No
+M:\New Wire Labels\Help\Graphics\dec_seq.jpg=No
+M:\New Wire Labels\Help\Graphics\DECIMAL.jpg=No
+M:\New Wire Labels\Help\Graphics\DEL_CHAR.jpg=No
+M:\New Wire Labels\Help\Graphics\Delete.jpg=No
+M:\New Wire Labels\Help\Graphics\EditMenu.jpg=No
+M:\New Wire Labels\Help\Graphics\Find.jpg=No
+M:\New Wire Labels\Help\Graphics\FONT.jpg=No
+M:\New Wire Labels\Help\Graphics\font_dialog.jpg=No
+M:\New Wire Labels\Help\Graphics\FORMAT.jpg=No
+M:\New Wire Labels\Help\Graphics\Help.jpg=No
+M:\New Wire Labels\Help\Graphics\IMPORT.jpg=No
+M:\New Wire Labels\Help\Graphics\INS_CHAR.jpg=No
+M:\New Wire Labels\Help\Graphics\insert.jpg=No
+M:\New Wire Labels\Help\Graphics\kasa-ani.gif=No
+M:\New Wire Labels\Help\Graphics\LabelFormat.jpg=No
+M:\New Wire Labels\Help\Graphics\New.jpg=No
+M:\New Wire Labels\Help\Graphics\Open.jpg=No
+M:\New Wire Labels\Help\Graphics\Paste.jpg=No
+M:\New Wire Labels\Help\Graphics\PLC.jpg=No
+M:\New Wire Labels\Help\Graphics\PLC_Seq.jpg=No
+M:\New Wire Labels\Help\Graphics\Print.jpg=No
+M:\New Wire Labels\Help\Graphics\printsetup.jpg=No
+M:\New Wire Labels\Help\Graphics\Save.jpg=No
+M:\New Wire Labels\Help\Graphics\slc.jpg=No
+M:\New Wire Labels\Help\Graphics\slc_seq.jpg=No
+M:\New Wire Labels\Help\Graphics\Sortasc.jpg=No
+M:\New Wire Labels\Help\Graphics\toolbar.jpg=No
+M:\New Wire Labels\formats.dat=No
+
+[Package|Kasa Wire Labels Full Install|Distribution]
+Type=single
+Size=
+Title=Kasa Wire Labels
+
+[Package|Kasa Wire Labels Full Install|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=-1
+Parent0=
+
+[Package|Kasa Wire Labels Full Install|$(Programs)]
+Icon1="KASA Wire Labels.exe"
+Title1=Kasa Wire Labels
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Kasa Wire Labels Full Install|Package]
+PackageFolder=i:\Kasa Wire Labels
+ProjectFolder=M:\New Wire Labels
+ServerSideCab=
+File1=i:\Kasa Wire Labels\setup.exe
+File2=i:\Kasa Wire Labels\Setup.Lst
+File3=i:\Kasa Wire Labels\KASA Wire Labels.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=g:\Engineering\Jobs\AppDev\Wire Labels 3.0_update
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+alpha.htm=G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\alpha.htm
+ALPHA.jpg=G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\ALPHA.jpg
+formats.dat=G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\formats.dat
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+\\Kic\KICData\Engineering\Jobs\AppDev\Wire Labels 3.0_update\VBPrnDlg.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Dep File 1|Files Added]
+print.avi=
+alpha.htm=
+banner.htm=
+contents.htm=
+decimal.htm=
+default.htm=
+edit_menu.htm=
+file_menu.htm=
+font_dialog.htm=
+help_menu.htm=
+insert_char.htm=
+label_format.htm=
+main.htm=
+plc.htm=
+popup_menu.htm=
+printer_setup.htm=
+sequence_menu.htm=
+slc.htm=
+toolbar.htm=
+view_menu.htm=
+alpha.jpg=
+alpha_seq.jpg=
+chg_qty.jpg=
+comp010.jpg=
+copy.jpg=
+cut.jpg=
+dec_seq.jpg=
+decimal.jpg=
+del_char.jpg=
+delete.jpg=
+editmenu.jpg=
+find.jpg=
+font.jpg=
+font_dialog.jpg=
+format.jpg=
+help.jpg=
+import.jpg=
+ins_char.jpg=
+insert.jpg=
+kasa-ani.gif=
+labelformat.jpg=
+new.jpg=
+open.jpg=
+paste.jpg=
+plc.jpg=
+plc_seq.jpg=
+print.jpg=
+printsetup.jpg=
+save.jpg=
+slc.jpg=
+slc_seq.jpg=
+sortasc.jpg=
+toolbar.jpg=
+formats.dat=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\KASA Wire Labels 3.1.exe=Yes
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+\\Kic\KICData\Engineering\Jobs\AppDev\Wire Labels 3.0_update\VBPrnDlg.dll=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\mscomct2.ocx=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\print.avi=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\alpha.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\banner.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\contents.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\decimal.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\default.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\edit_menu.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\file_menu.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\font_dialog.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\help_menu.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\insert_char.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\label_format.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\main.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\PLC.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\popup_menu.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\printer_setup.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\sequence_menu.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\SLC.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\toolbar.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\view_menu.htm=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\ALPHA.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\alpha_seq.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\CHG_QTY.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\comp010.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Copy.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Cut.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\dec_seq.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\DECIMAL.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\DEL_CHAR.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Delete.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\EditMenu.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Find.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\FONT.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\font_dialog.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\FORMAT.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Help.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\IMPORT.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\INS_CHAR.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\insert.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\kasa-ani.gif=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\LabelFormat.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\New.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Open.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Paste.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\PLC.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\PLC_Seq.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Print.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\printsetup.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Save.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\slc.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\slc_seq.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Sortasc.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\toolbar.jpg=Yes
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\formats.dat=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+M:\New Wire Labels\KASA Wire Labels.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+M:\New Wire Labels\print.avi=$(AppPath)
+M:\New Wire Labels\Help\alpha.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\banner.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\contents.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\decimal.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\default.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\edit_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\file_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\font_dialog.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\help_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\insert_char.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\label_format.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\main.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\PLC.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\popup_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\printer_setup.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\sequence_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\SLC.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\toolbar.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\view_menu.htm=$(AppPath)\Help
+M:\New Wire Labels\Help\Graphics\ALPHA.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\alpha_seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\CHG_QTY.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\comp010.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Copy.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Cut.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\dec_seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\DECIMAL.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\DEL_CHAR.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Delete.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\EditMenu.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Find.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\FONT.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\font_dialog.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\FORMAT.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Help.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\IMPORT.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\INS_CHAR.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\insert.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\kasa-ani.gif=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\LabelFormat.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\New.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Open.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Paste.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\PLC.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\PLC_Seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Print.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\printsetup.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Save.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\slc.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\slc_seq.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\Sortasc.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\Help\Graphics\toolbar.jpg=$(AppPath)\Help\Graphics
+M:\New Wire Labels\formats.dat=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\KASA Wire Labels 3.1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+\\Kic\KICData\Engineering\Jobs\AppDev\Wire Labels 3.0_update\VBPrnDlg.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomct2.ocx=$(WinSysPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\print.avi=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\alpha.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\banner.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\contents.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\decimal.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\default.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\edit_menu.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\file_menu.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\font_dialog.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\help_menu.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\insert_char.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\label_format.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\main.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\PLC.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\popup_menu.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\printer_setup.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\sequence_menu.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\SLC.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\toolbar.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\view_menu.htm=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\ALPHA.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\alpha_seq.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\CHG_QTY.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\comp010.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Copy.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Cut.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\dec_seq.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\DECIMAL.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\DEL_CHAR.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Delete.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\EditMenu.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Find.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\FONT.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\font_dialog.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\FORMAT.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Help.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\IMPORT.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\INS_CHAR.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\insert.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\kasa-ani.gif=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\LabelFormat.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\New.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Open.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Paste.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\PLC.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\PLC_Seq.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Print.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\printsetup.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Save.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\slc.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\slc_seq.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\Sortasc.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\Help\Graphics\toolbar.jpg=$(AppPath)
+G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\formats.dat=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+M:\New Wire Labels\KASA Wire Labels.exe=No
+M:\New Wire Labels\print.avi=No
+M:\New Wire Labels\Help\alpha.htm=No
+M:\New Wire Labels\Help\banner.htm=No
+M:\New Wire Labels\Help\contents.htm=No
+M:\New Wire Labels\Help\decimal.htm=No
+M:\New Wire Labels\Help\default.htm=No
+M:\New Wire Labels\Help\edit_menu.htm=No
+M:\New Wire Labels\Help\file_menu.htm=No
+M:\New Wire Labels\Help\font_dialog.htm=No
+M:\New Wire Labels\Help\help_menu.htm=No
+M:\New Wire Labels\Help\insert_char.htm=No
+M:\New Wire Labels\Help\label_format.htm=No
+M:\New Wire Labels\Help\main.htm=No
+M:\New Wire Labels\Help\PLC.htm=No
+M:\New Wire Labels\Help\popup_menu.htm=No
+M:\New Wire Labels\Help\printer_setup.htm=No
+M:\New Wire Labels\Help\sequence_menu.htm=No
+M:\New Wire Labels\Help\SLC.htm=No
+M:\New Wire Labels\Help\toolbar.htm=No
+M:\New Wire Labels\Help\view_menu.htm=No
+M:\New Wire Labels\Help\Graphics\ALPHA.jpg=No
+M:\New Wire Labels\Help\Graphics\alpha_seq.jpg=No
+M:\New Wire Labels\Help\Graphics\CHG_QTY.jpg=No
+M:\New Wire Labels\Help\Graphics\comp010.jpg=No
+M:\New Wire Labels\Help\Graphics\Copy.jpg=No
+M:\New Wire Labels\Help\Graphics\Cut.jpg=No
+M:\New Wire Labels\Help\Graphics\dec_seq.jpg=No
+M:\New Wire Labels\Help\Graphics\DECIMAL.jpg=No
+M:\New Wire Labels\Help\Graphics\DEL_CHAR.jpg=No
+M:\New Wire Labels\Help\Graphics\Delete.jpg=No
+M:\New Wire Labels\Help\Graphics\EditMenu.jpg=No
+M:\New Wire Labels\Help\Graphics\Find.jpg=No
+M:\New Wire Labels\Help\Graphics\FONT.jpg=No
+M:\New Wire Labels\Help\Graphics\font_dialog.jpg=No
+M:\New Wire Labels\Help\Graphics\FORMAT.jpg=No
+M:\New Wire Labels\Help\Graphics\Help.jpg=No
+M:\New Wire Labels\Help\Graphics\IMPORT.jpg=No
+M:\New Wire Labels\Help\Graphics\INS_CHAR.jpg=No
+M:\New Wire Labels\Help\Graphics\insert.jpg=No
+M:\New Wire Labels\Help\Graphics\kasa-ani.gif=No
+M:\New Wire Labels\Help\Graphics\LabelFormat.jpg=No
+M:\New Wire Labels\Help\Graphics\New.jpg=No
+M:\New Wire Labels\Help\Graphics\Open.jpg=No
+M:\New Wire Labels\Help\Graphics\Paste.jpg=No
+M:\New Wire Labels\Help\Graphics\PLC.jpg=No
+M:\New Wire Labels\Help\Graphics\PLC_Seq.jpg=No
+M:\New Wire Labels\Help\Graphics\Print.jpg=No
+M:\New Wire Labels\Help\Graphics\printsetup.jpg=No
+M:\New Wire Labels\Help\Graphics\Save.jpg=No
+M:\New Wire Labels\Help\Graphics\slc.jpg=No
+M:\New Wire Labels\Help\Graphics\slc_seq.jpg=No
+M:\New Wire Labels\Help\Graphics\Sortasc.jpg=No
+M:\New Wire Labels\Help\Graphics\toolbar.jpg=No
+M:\New Wire Labels\formats.dat=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=Kasa Wire Labels
+
+[Package|Dep File 1|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=-1
+Parent0=
+
+[Package|Dep File 1|$(Programs)]
+Icon1="KASA Wire Labels.exe"
+Title1=Kasa Wire Labels
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Dep File 1|DepFile]
+DepCabFile=KASA Terminal Labels 3.1.CAB
+DepCabRun=KASA Terminal Labels 3.1.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=g:\Engineering\Jobs\AppDev\Wire Labels 3.0_update
+ProjectFolder=G:\Engineering\Jobs\AppDev\Wire Labels 3.0_update
+ServerSideCab=
+File1=g:\Engineering\Jobs\AppDev\Wire Labels 3.0_update\KASA Wire Labels 3.1.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

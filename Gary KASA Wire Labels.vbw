@@ -1,0 +1,14 @@
+frmMain = 44, 58, 742, 346, C, 66, 87, 632, 516, C
+Globals = 132, 174, 698, 603, C
+frmFormat = 88, 116, 654, 545, C, 22, 29, 588, 458, C
+frmDecimal = 0, 0, 0, 0, C, 44, 58, 610, 487, C
+frmAlpha = 0, 0, 0, 0, C, 66, 87, 632, 516, C
+frmInsertChar = 0, 0, 0, 0, C, 88, 116, 654, 545, C
+frmPLC = 0, 0, 0, 0, C, 110, 145, 676, 574, C
+frmSLC = 0, 0, 0, 0, C, 132, 174, 698, 603, C
+frmPrint = 0, 0, 0, 0, C, 0, 0, 566, 429, C
+frmBrowser = 0, 0, 0, 0, C, 22, 29, 588, 458, C
+frmAbout = 0, 0, 0, 0, C, 44, 58, 610, 487, C
+frmPrinterSetup = 0, 0, 0, 0, C, 66, 87, 632, 516, C
+modPrintSelect = 0, 0, 0, 0, C
+modPrintForms = 22, 29, 720, 317, C

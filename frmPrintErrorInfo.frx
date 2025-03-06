@@ -1,0 +1,27 @@
+µError 484 "Printer driver unavailable."
+
+Cause: This error occurs when the printer information is missing or insufficient.
+Fix: Contact Technical Support and report this error.
+ÿtError 482 "Printer Error."
+
+There is some problem that prevents printing. This error has the following causes and solutions: 
+
+	1. You don't have a printer installed from the Windows Control Panel. 
+	   FIX: Open the Control Panel, double-click the Printers icon, and choose Add Printer to install a printer.
+
+	2. Your printer isn't online. 
+	   FIX: Physically switch the printer online.
+
+	3. Your printer is jammed or out of paper. 
+	   FIX: Physically correct the problem.
+
+	4. You tried to print a form to a printer that can accept only text. 
+	   FIX: Switch to an installed printer that can print graphics.
+æError 483 "Printer driver does not support the property."
+
+Cause:  This error occurs when attempting to use a property that is not supported by the current printer driver.
+Fix: Contact Technical Support and report this error.
+ÃError 396 "Property cannot be set within a page."
+
+Cause:  This error occurs when the same property is set differently on the same page.
+Fix: Contact Technical Support and report this error.
